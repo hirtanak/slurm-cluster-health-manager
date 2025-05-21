@@ -2,6 +2,7 @@
 
 A modular Python-based system for monitoring and managing the health of Slurm-managed GPU clusters. This tool automates diagnostics, failure detection, reboot orchestration, and generates visual reports and GHR submissions.
 
+*Disclaimer**: This project, `slurm-cluster-health-manager`, is an internal tool developed for demonstration and reference purposes. It is **not an official Microsoft product** and is not supported or maintained by Microsoft.
 ---
 
 ## Features
